@@ -7,6 +7,7 @@
   display: grid;
   grid-template-columns: 1fr 4fr;
   gap: 4px;
+  text-align: center;
 }
 
 .container div {
@@ -60,7 +61,6 @@
 
 
 .sidebar .side-content {
-  align-content: center;
   background-color: white;
   color: black;
   font-size: 16px;
@@ -71,7 +71,6 @@
 .photo {
   display: grid;
   align-items: center;
-  justify-content: center;
 }
 
 .nav {
